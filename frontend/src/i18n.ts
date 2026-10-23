@@ -4,7 +4,7 @@ import { initReactI18next } from "react-i18next";
 const resources = {
   ar: {
     translation: {
-      app_name: "خدمات الصيانة",
+      app_name: "بايظ لخدمات الصيانة",
       login_title: "تسجيل الدخول",
       email: "الإيميل",
     name: "الاسم",
@@ -32,7 +32,7 @@ const resources = {
   },
   en: {
     translation: {
-      app_name: "Maintenance Services",
+      app_name: "Bayez for Maint. Services",
       login_title: "Sign in",
       email: "Email",
       name: "Name",

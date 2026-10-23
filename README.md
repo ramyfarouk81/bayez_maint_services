@@ -1,9 +1,6 @@
-\# 🛠️ Maintenance Agent (خدمات الصيانة)
+# 🛠️ Bayez for Maint. Services (بايظ لخدمات الصيانة)
 
-
-
-A fully functional, bilingual (Arabic/English) AI-powered marketplace for maintenance services. It connects clients with workers (plumbers, electricians, appliance techs) using a bidding system and an escrow-style payment release.
-
+**Bayez** is a fully functional, bilingual (Arabic/English) AI-powered marketplace for maintenance services...
 
 
 \## 🚀 Features
